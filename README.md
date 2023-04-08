@@ -1,6 +1,6 @@
 # SwiftEaglePly
 
-This Swift package provides a way to load the polygon mesh of the AutoDesk Eagle as an array of points conforming to the `EaglePoint` protocol. The `EaglePoint` protocol defines the following properties:
+This Swift package provides a way to load the polygon mesh of the Eagle as an array of points conforming to the `EaglePoint` protocol. The `EaglePoint` protocol defines the following properties:
 
 - `pos`: Position information of type `SIMD3<Float>`
 - `normal`: Normal vector of type `SIMD3<Float>`
